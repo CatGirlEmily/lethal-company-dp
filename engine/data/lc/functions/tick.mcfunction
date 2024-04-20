@@ -1,0 +1,1 @@
+function lc:gen/stair
